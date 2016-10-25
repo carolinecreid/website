@@ -6,3 +6,8 @@
 h1 {
     font-family: myFirstFont;
 }
+
+body {
+    background-image: url("IMG_1687.jpg");
+    background-color: #cccccc;
+}
