@@ -3,11 +3,20 @@
     src: url(CODE-Bold.otf);
 }
 
+.container {
+    margin-top: 20%;
+}
 h1 {
     font-family: myFirstFont;
 }
 
 body {
-  background: url("IMG_1687.jpg") no-repeat;
+  background: url("IMG_1687.jpg");
+  background-position: center;
+  background-repeat no-repeat;
+  background-attachment: fixed;
   background-size: cover;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
