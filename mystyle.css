@@ -8,6 +8,6 @@ h1 {
 }
 
 body {
-    background-image: url("IMG_1687.jpg");
-    background-color: #cccccc;
+  background: url("IMG_1687.jpg") no-repeat;
+  background-size: cover;
 }
