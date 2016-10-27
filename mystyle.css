@@ -3,11 +3,23 @@
     src: url(CODE-Bold.otf);
 }
 
+@font-face {
+    font-family: gotham;
+    src: url(GothamXNarrow-Light.otf);
+}
+
 .container {
     margin-top: 20%;
 }
 h1 {
     font-family: myFirstFont;
+    font-size: 70px;
+}
+p {
+    font-family: gotham;
+    font-size: 40px;
+
+
 }
 
 body {
