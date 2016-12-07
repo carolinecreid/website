@@ -14,12 +14,22 @@
 h1 {
     font-family: myFirstFont;
     font-size: 70px;
+
 }
 p {
     font-family: gotham;
-    font-size: 40px;
+    font-size: 35px;
+    text-xalign: right;
 
 
+}
+
+.nomarginabove {
+     margin-top:0;
+}
+
+.nomarginbelow {
+     margin-bottom:0;
 }
 
 body {
