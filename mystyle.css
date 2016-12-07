@@ -19,16 +19,13 @@ h1 {
 p {
     font-family: gotham;
     font-size: 35px;
-    text-xalign: right;
-
-
 }
 
-.nomarginabove {
+.marginabove {
      margin-top:0;
 }
 
-.nomarginbelow {
+.marginbelow {
      margin-bottom:0;
 }
 
