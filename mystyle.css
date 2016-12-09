@@ -9,11 +9,13 @@
 }
 
 .container {
-    margin-top: 20%;
+    margin-top: 0%;
+
 }
+
 h1 {
     font-family: myFirstFont;
-    font-size: 70px;
+    font-size: 45px;
 
 }
 p {
@@ -23,14 +25,41 @@ p {
 
 .marginabove {
      margin-top:0;
+
 }
 
 .marginbelow {
      margin-bottom:0;
+
 }
 
+.icons{
+
+  display: inline-block;
+
+}
+
+.imgicon{
+   width: 70px;
+   height: 70px;
+   margin:0px;
+
+}
+
+
+ul{
+    list-style-type: none;
+
+}
+
+.socialcontent{
+    margin-left: 90px;
+    margin-top: -20px;
+}
+
+
 body {
-  background: url("IMG_1687.jpg");
+  background: url("panorama.jpg");
   background-position: center;
   background-repeat no-repeat;
   background-attachment: fixed;
